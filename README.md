@@ -8,13 +8,13 @@ Homebrew formulae for ai-slop-code command-line tools.
 documentation and release archives are at
 <https://github.com/ai-slop-code/ferl-cli>.
 
-Install command (available once the first `ferl` release is published):
+Install:
 
 ```sh
 brew install ai-slop-code/tap/ferl
 ```
 
-Until that release is published, the `ferl` formula is not yet in this tap.
+The formula is updated automatically by the CLI repository's release workflow.
 
 ## License
 
